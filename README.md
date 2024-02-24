@@ -8,7 +8,6 @@
 - I'm intrested and skilled in
 
 - Electronics ( Digital (FPGA, Verilog, ASCI Design, PCB Design), Analog, Embeddded System),
-- Product (Product Management, Business acumen, Finance),
 - Mechatroics (Enthusiastic about designing new inventions),
 - Robotics ( Bit od experience in Control Theory, Reinforcement Learning, Robotics kinematics, Probablistic robotics each, but like robotics as a whole),
 
